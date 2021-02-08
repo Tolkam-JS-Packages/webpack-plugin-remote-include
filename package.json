@@ -1,0 +1,17 @@
+{
+    "name": "@tolkam/webpack-plugin-remote-include",
+    "description": "Plugin to include into bundle a remote js file",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+        "download": "^8.0.0"
+    },
+    "devDependencies": {
+        "@types/download": "^6.2.4",
+        "@types/node": "^14.14.25",
+        "@types/webpack": "^4.41.26",
+        "tslib": "^2.1.0"
+    }
+}
