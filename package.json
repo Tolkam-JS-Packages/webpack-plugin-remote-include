@@ -3,6 +3,7 @@
     "description": "Plugin to include a remote js file into the output bundle",
     "main": "index.js",
     "license": "UNLICENSED",
+    "version": "0.0.0",
     "dependencies": {
         "download": "^8.0.0"
     },
